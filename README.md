@@ -1,7 +1,7 @@
 # Understanding the Impact of Ozempic on Obese and Hypertensive Patients
 
 ## 📅 Project Details
-- **Objective:** Explore the effects of Ozempic on obese and hypertensive patients aged between 40-75, with a focus on addressing endogeneity to estimate the treatment effect accurately.
+- **Objective:** Explore the effects of Ozempic on obese and hypertensive patients aged between 40-75, with a focus on addressing endogeneity to estimate the treatment effect accurately
 
 ## 📚 Data Description
 The project utilizes two main datasets:
