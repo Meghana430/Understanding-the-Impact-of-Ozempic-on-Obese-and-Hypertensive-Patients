@@ -13,7 +13,7 @@ The project utilizes two main datasets:
 - **Preprocessing Steps:**
   - Handling missing data through imputation and exclusion of non-informative records.
   - Encoding categorical variables for model compatibility.
-  - Merging Medical and Prescription datasets with a focus on maintaining data integrity.
+  - Merging Medical and Prescription datasets with a focus on maintaining data integrity
 
 ## 📊 Exploratory Data Analysis (EDA)
 - **Visualization:** Utilized libraries like Matplotlib and Seaborn for plotting distributions and relationships between variables.
