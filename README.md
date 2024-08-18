@@ -6,7 +6,7 @@
 ## 📚 Data Description
 The project utilizes two main datasets:
 1. **Medical Claims Data:** Contains services rendered to the specified patient group, available in various sample sizes.
-2. **Prescription Data:** Details prescriptions dispensed to a fraction of the patients in the medical claims dataset.
+2. **Prescription Data:** Details prescriptions dispensed to a fraction of the patients in the medical claims dataset
 
 ## 🛠 Setup and Preprocessing
 - **Environment:** Analysis performed using Jupyter Notebook.
